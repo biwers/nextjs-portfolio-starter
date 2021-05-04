@@ -12,15 +12,8 @@ Le haut-parleur portable Roam est le petit dernier de Sonos. S’il est plus che
 
 ### Il est vraiment tout petit
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/F3PKdtBOYK8"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![](http://img.youtube.com/vi/F3PKdtBOYK8/0.jpg)](http://www.youtube.com/watch?v=F3PKdtBOYK8 "Sonos Roam")
+
 
 Malgré sa petite taille, il se synchronise avec les autres haut-parleurs Sonos et diffuse de la musique par wifi. L’ajout à son système existant est simplifié par une puce NFC située sous l’appareil. Mais étrangement, l’association par Bluetooth à un téléphone par NFC ne semble pas fonctionner.
 
