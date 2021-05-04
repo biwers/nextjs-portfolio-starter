@@ -35,7 +35,14 @@ Le Roam est mono. On pourra en combiner deux pour former une paire stéréo, mai
   alt="Photo"
   className="next-image"
 />
-<Image src="https://www.pascalforget.com/wp-content/uploads/2021/03/haut-parleur-sonos-roam-ordinateur.jpg" alt="Nextra" width={1536/2} height={768/2} layout="intrinsic"/>
+<Image
+  src="/images/photo2.jpg"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 
 ## Summary
