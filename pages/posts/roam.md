@@ -29,7 +29,7 @@ Le Roam est mono. On pourra en combiner deux pour former une paire stéréo, mai
   className="next-image"
 />
 <Image
-  src="./images/photo2.jpg"
+  src="https://www.blogue.app/images/photo2.jpg"
   alt="Photo"
   width={1125}
   height={750}
